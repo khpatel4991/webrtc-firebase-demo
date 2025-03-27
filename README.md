@@ -13,6 +13,10 @@ Update the firebase project config in the main.js file.
 git clone <this-repo>
 npm install
 
+cp .env.example .env
+
+# Now add your env variables for firebase.
+
 npm run dev
 ```
 
